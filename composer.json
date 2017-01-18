@@ -1,0 +1,16 @@
+{
+  "name": "vakst/dbal-vertica-vmap",
+  "description": "Provides VMap Vertica doctrine type and function",
+  "keywords": ["vertica","vmap", "doctrine", "flex"],
+  "homepage": "https://github.com/vakst/dbal-vertica-vmap",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladimir Akst"
+    }
+  ],
+  "require": {
+    "doctrine/dbal": "*"
+  }
+}
